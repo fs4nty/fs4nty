@@ -9,9 +9,9 @@
 <br>
 <br>
 <p align="center">
-  <img src="" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
-  <img src="" /><br><br>
-  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300"><img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
+  <img src="" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+  <img src="https://media3.giphy.com/media/HoffxyN8ghVuw/giphy.gif?cid=ecf05e47609dkodkg5coh94l5bknw6n2thywldr9c8ubgztd&rid=giphy.gif&ct=g" /><br><br>
+  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
 </p>
 <br>
 <br>
@@ -19,13 +19,6 @@
 <br>
 <br>
 <br>
-<p align="center">
-<a href="" target="_blank"><img align="center" src="" alt="" height="20" width="20" /></a>
-<a href="" target="_blank"><img align="center" src="" alt="" height="20" width="20" /></a>
-<a href="" target="_blank"><img align="center" src="" alt="" height="20" width="20" /></a>
-<a href="" target="_blank"><img align="center" src="g" alt="" height="20" width="20" /></a>
-  <a href="" target="_blank"><img align="center" src="" alt="" height="20" width="20" /></a>
-</p>
 <br>
 <br>
 <br>

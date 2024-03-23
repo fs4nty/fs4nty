@@ -1,7 +1,11 @@
-### s4nty
-<br>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width ="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+# s4nty.dat
+<br>           
+  
+  <p align="center">
+    Apasionado de la ciberseguridad (:
+    <br>
+    <br>
+  <img src="https://i.pinimg.com/564x/6a/10/c8/6a10c8f8335b6e00a3997914b9bb7b1f.jpg" width ="35"><img src="https://i.pinimg.com/564x/0e/2d/8a/0e2d8aa3eda96247abb579ea17aed28a.jpg" width="35"><img src="https://i.pinimg.com/564x/93/5b/6c/935b6cff00a075888f4702a19e1d77c3.jpg" width="35"><img src="https://i.pinimg.com/564x/b1/bc/e9/b1bce9e90117c8ec9aab42c93abb906c.jpg" width="35"><br><br>
   <!--<img src="https://media3.giphy.com/media/HoffxyN8ghVuw/giphy.gif?cid=ecf05e47609dkodkg5coh94l5bknw6n2thywldr9c8ubgztd&rid=giphy.gif&ct=g" /><br><br>
 </p>
 <br>

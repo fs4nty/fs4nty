@@ -1,4 +1,4 @@
-## s4nty.dat
+## s4nti.dat
 <br>           
   <h3 align="center">Apasionado de la ciberseguridad y la tecnologia (:</h3>
   <p align="center">
